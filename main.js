@@ -7,7 +7,7 @@ let connect1 = [
 	pic: "images/user-pic 1.jpg",
 	name: "Arjun",
 	position: "Full Stack Developer",
-	company: "Fabevy Techonology Solutions",
+	company: "Techonology Solutions",
 	btn:"Follow"
 },						
 {
@@ -15,7 +15,7 @@ let connect1 = [
 	pic: "images/user-pic 1.jpg",
 	name: "Kannan",
 	position: "Full Stack Developer",
-	company: "Fabevy Techonology Solutions",
+	company: "Techonology Solutions",
 	btn:"Follow"
 },
 {
@@ -23,7 +23,7 @@ let connect1 = [
 	pic: "images/user-pic 1.jpg",
 	name: "Dinesh",
 	position: "Full Stack Developer",
-    company: "Fabevy Techonology Solutions",
+    company: "Techonology Solutions",
 	btn:"Follow"
 },
 {
@@ -31,7 +31,7 @@ let connect1 = [
 	pic: "images/user-pic 1.jpg",
 	name: "Yuvan",
 	position: "Full Stack Developer",
-    company: "Fabevy Techonology Solutions",
+    company: "Techonology Solutions",
 	btn:"Follow"
 },
 {
@@ -39,7 +39,7 @@ let connect1 = [
 	pic: "images/user-pic 1.jpg",
 	name: "JaiSuriya",
 	position: "Full Stack Developer",
-	company: "Fabevy Techonology Solutions",
+	company: "Techonology Solutions",
 	btn:"Follow"
 },
 {
@@ -47,7 +47,7 @@ let connect1 = [
 	pic: "images/user-pic 1.jpg",
 	name: "Santhosh",
 	position: "Full Stack Developer",
-    company: "Fabevy Techonology Solutions",
+    company: "Techonology Solutions",
 	btn:"Follow"
 	
 },
